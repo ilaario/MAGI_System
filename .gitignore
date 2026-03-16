@@ -1,0 +1,10 @@
+# Files
+.env
+.DS_Store
+
+# Directories
+src/magi/voting/__pycache__
+src/magi/models/__pycache__
+src/magi/agents/__pycache__
+src/magi/__pycache__
+src/__pycache__
