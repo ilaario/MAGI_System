@@ -4,6 +4,7 @@
 
 # Directories
 src/magi/voting/__pycache__
+src/magi/audit/__pycache__
 src/magi/models/__pycache__
 src/magi/agents/__pycache__
 src/magi/__pycache__

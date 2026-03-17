@@ -59,11 +59,38 @@ def format_final_decision_report(final: FinalDecision) -> str:
             lines.append(f"- {item}")
 
     lines.append("")
-    lines.append("Notes")
+    lines.append("")
+    lines.append("Checks")
+
     if final.consistency_warnings:
+        lines.append("Warnings:")
         for agent, warning in final.consistency_warnings.items():
             lines.append(f"- {agent}: {warning}")
     else:
-        lines.append("- No consistency warnings detected.")
+        lines.append("Warnings:")
+        lines.append("- No hard consistency warnings detected.")
+
+    if final.consistency_notes:
+        lines.append("Notes:")
+        for agent, agent_notes in final.consistency_notes.items():
+            for note in agent_notes:
+                lines.append(f"- {agent}: {note}")
+    else:
+        lines.append("Notes:")
+        lines.append("- No soft consistency notes detected.")
+
+    if final.audits:
+        lines.append("Audit:")
+        for agent, audit in final.audits.items():
+            lines.append(
+                f"- {agent}: consistent={audit.is_consistent}, severity={audit.severity}"
+            )
+            if audit.issues:
+                for issue in audit.issues:
+                    lines.append(f"  - {issue}")
+            lines.append(f"  Explanation: {audit.explanation}")
+    else:
+        lines.append("Audit:")
+        lines.append("- No audit results generated.")
 
     return "\n".join(lines)

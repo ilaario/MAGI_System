@@ -1,5 +1,7 @@
 from collections import Counter, defaultdict
 
+from magi.audit.consistency_auditor import ConsistencyAuditor
+from magi.llm_client import LLMClient
 from magi.models.decision_result import DecisionResult
 from magi.models.final_decision import FinalDecision
 
@@ -11,28 +13,9 @@ def compute_agreement_score(results: dict[str, DecisionResult]) -> float:
     return round(top_count / len(votes), 2)
 
 
-NEGATIVE_PATTERNS = {
-    "A": [
-        "high risk of failure",
-        "aggressive expansion",
-        "very high investment",
-        "significant loss",
-        "catastrophic loss",
-    ],
-    "B": [
-        "limited returns",
-        "moderate profit may be insufficient",
-        "implementation challenges",
-    ],
-    "C": [
-        "low profit",
-        "stagnation",
-        "forgo valuable improvements",
-    ],
-}
-
-
-def compare_agent_results(results: dict[str, DecisionResult]) -> FinalDecision:
+def compare_agent_results(
+    results: dict[str, DecisionResult], scenario: str
+) -> FinalDecision:
     votes = {agent: result.decision for agent, result in results.items()}
     counter = Counter(votes.values())
 
@@ -50,11 +33,31 @@ def compare_agent_results(results: dict[str, DecisionResult]) -> FinalDecision:
     dissenting_agents = [agent for agent, vote in votes.items() if vote != top_decision]
 
     weighted_scores = compute_weighted_scores(results)
-    weighted_winner = max(weighted_scores, key=weighted_scores.get)
+    weighted_winner = max(weighted_scores, key=lambda k: weighted_scores[k])
 
     agreement_score = compute_agreement_score(results)
 
     consistency_warnings = detect_consistency_warnings(results)
+    consistency_notes = detect_consistency_notes(results)
+
+    audits = {}
+    # auditor = ConsistencyAuditor(model="openrouter/free")
+    auditor = ConsistencyAuditor(model="openai/gpt-4o-mini")
+
+    for agent_name, result in results.items():
+        if should_audit_agent(
+            agent_name, result, consistency_warnings, consistency_notes
+        ):
+            try:
+                audits[agent_name] = auditor.audit(scenario, result)
+            except Exception as e:
+                # fallback minimale, così non ti si rompe tutto per una risposta sporca del validator
+                audits[agent_name] = {
+                    "is_consistent": False,
+                    "severity": "high",
+                    "issues": [f"Audit failed: {e}"],
+                    "explanation": "The auditor could not validate this output.",
+                }
 
     summary = build_summary(
         final_decision=top_decision,
@@ -78,6 +81,8 @@ def compare_agent_results(results: dict[str, DecisionResult]) -> FinalDecision:
         consistency_warnings=consistency_warnings,
         summary=summary,
         agreement_score=agreement_score,
+        consistency_notes=consistency_notes,
+        audits=audits,
     )
 
 
@@ -93,20 +98,228 @@ def compute_weighted_scores(results: dict[str, DecisionResult]) -> dict[str, int
 def detect_consistency_warnings(results: dict[str, DecisionResult]) -> dict[str, str]:
     warnings: dict[str, str] = {}
 
+    negative_cues = {
+        "A": [
+            "high risk",
+            "high risk of failure",
+            "very high investment",
+            "aggressive expansion",
+            "substantial harm",
+            "disproportionate burden",
+            "large-scale negative consequences",
+            "catastrophic",
+            "overextended",
+            "severe",
+        ],
+        "B": [
+            "insufficient return",
+            "limited gain",
+            "moderate profit may be insufficient",
+            "implementation challenges",
+            "stagnation",
+        ],
+        "C": [
+            "low profit",
+            "stagnation",
+            "missed growth",
+            "forgo opportunities",
+            "insufficient progress",
+        ],
+    }
+
+    severe_risk_terms = [
+        "high risk",
+        "severe",
+        "catastrophic",
+        "disproportionate",
+        "large-scale",
+        "significant harm",
+        "instability",
+        "negative consequences",
+    ]
+
+    positive_claims = [
+        "stability",
+        "low risk",
+        "manageable",
+        "trust",
+        "balanced",
+        "preserves",
+        "reduces harm",
+        "minimizes harm",
+        "controlled",
+    ]
+
     for agent_name, result in results.items():
-        text = " ".join(result.reasoning + result.risks).lower()
         selected = result.decision
+        other_options = [opt for opt in ["A", "B", "C"] if opt != selected]
 
-        patterns = NEGATIVE_PATTERNS.get(selected, [])
-        matched = [p for p in patterns if p in text]
+        reasoning_text = " ".join(result.reasoning).lower()
+        risks_text = " ".join(result.risks).lower()
+        full_text = f"{reasoning_text} {risks_text}"
 
-        if len(matched) >= 2:
-            warnings[agent_name] = (
-                f"Selected option {selected} but used multiple negative cues about it: "
-                + ", ".join(matched)
+        score = 0
+        details = []
+
+        # 1. Very low confidence
+        if result.confidence <= 15:
+            score += 1
+            details.append(
+                f"very low confidence in selected option ({result.confidence})"
+            )
+        elif result.confidence <= 30:
+            details.append(f"low confidence in selected option ({result.confidence})")
+
+        # 2. Negative cues about selected option
+        matched_negative = [
+            cue for cue in negative_cues.get(selected, []) if cue in full_text
+        ]
+        if len(matched_negative) >= 2:
+            score += 1
+            details.append(
+                f"negative cues about selected option {selected}: {', '.join(sorted(set(matched_negative)))}"
             )
 
+        # 3. Reasoning seems to favor another option
+        praise_other_option = []
+        for other in other_options:
+            patterns = [
+                f"option {other.lower()} balances",
+                f"option {other.lower()} preserves",
+                f"option {other.lower()} avoids",
+                f"option {other.lower()} reduces",
+                f"option {other.lower()} supports",
+                f"option {other.lower()} minimizes",
+                f"{other.lower()} balances",
+                f"{other.lower()} preserves",
+                f"{other.lower()} avoids",
+                f"{other.lower()} reduces",
+                f"{other.lower()} supports",
+                f"{other.lower()} minimizes",
+            ]
+            for pattern in patterns:
+                if pattern in reasoning_text:
+                    praise_other_option.append(pattern)
+
+        if praise_other_option:
+            score += 1
+            details.append(
+                f"reasoning appears to favor another option: {', '.join(sorted(set(praise_other_option)))}"
+            )
+
+        # 4. Severe risks paired with stability/safety reasoning
+        matched_severe_risks = [
+            term for term in severe_risk_terms if term in risks_text
+        ]
+        matched_positive_claims = [
+            term for term in positive_claims if term in reasoning_text
+        ]
+
+        if matched_positive_claims and matched_severe_risks:
+            score += 1
+            details.append(
+                f"reasoning emphasizes safety/stability but risks remain severe: {', '.join(sorted(set(matched_severe_risks)))}"
+            )
+
+        # 5. Weak anchoring to selected option
+        explicit_anchor_patterns = [
+            f"option {selected.lower()}",
+            f"{selected.lower()} ",
+        ]
+        if not any(pattern in reasoning_text for pattern in explicit_anchor_patterns):
+            details.append(
+                f"reasoning does not clearly anchor itself to selected option {selected}"
+            )
+
+        if score > 0:
+            warnings[agent_name] = f"[score={score}] " + " | ".join(details)
+
     return warnings
+
+
+def detect_consistency_notes(
+    results: dict[str, DecisionResult],
+) -> dict[str, list[str]]:
+    notes: dict[str, list[str]] = {}
+
+    generic_terms = [
+        "stability",
+        "trust",
+        "balanced",
+        "flexibility",
+        "positioning",
+        "growth",
+        "impact",
+        "capability",
+        "resilience",
+        "advantage",
+    ]
+
+    scenario_specific_terms = [
+        "layoff",
+        "automation",
+        "privacy",
+        "security",
+        "data",
+        "expansion",
+        "market",
+        "r&d",
+        "innovation",
+        "supplier",
+        "labor",
+        "ethical",
+        "cost",
+        "worker",
+        "profit",
+    ]
+
+    for agent_name, result in results.items():
+        agent_notes: list[str] = []
+
+        reasoning_text = " ".join(result.reasoning).lower()
+        assumptions_text = " ".join(result.assumptions).lower()
+
+        # 1. Low confidence
+        if result.confidence <= 15:
+            agent_notes.append(f"very low confidence ({result.confidence})")
+        elif result.confidence <= 30:
+            agent_notes.append(f"low confidence ({result.confidence})")
+
+        # 2. Weak anchoring to the chosen option
+        selected = result.decision.lower()
+        anchor_patterns = [
+            f"option {selected}",
+            f"{selected} ",
+        ]
+        if not any(pattern in reasoning_text for pattern in anchor_patterns):
+            agent_notes.append("reasoning is weakly anchored to the selected option")
+
+        # 3. Overly generic reasoning
+        generic_hits = [term for term in generic_terms if term in reasoning_text]
+        specific_hits = [
+            term for term in scenario_specific_terms if term in reasoning_text
+        ]
+
+        if len(generic_hits) >= 2 and len(specific_hits) == 0:
+            agent_notes.append("reasoning may be overly generic")
+
+        # 4. Assumptions may be speculative
+        speculative_markers = [
+            "market conditions",
+            "leadership values",
+            "stakeholders value",
+            "industry rewards",
+            "current market remains stable",
+            "future competitiveness",
+        ]
+        speculative_hits = [m for m in speculative_markers if m in assumptions_text]
+        if len(speculative_hits) >= 1:
+            agent_notes.append("assumptions may be somewhat speculative")
+
+        if agent_notes:
+            notes[agent_name] = agent_notes
+
+    return notes
 
 
 def build_summary(
@@ -152,3 +365,21 @@ def build_summary(
         sentences.append(f"Consistency warnings were raised for {flagged}.")
 
     return "\n".join(sentences)
+
+
+def should_audit_agent(
+    agent_name: str,
+    result: DecisionResult,
+    consistency_warnings: dict[str, str],
+    consistency_notes: dict[str, list[str]],
+) -> bool:
+    if agent_name in consistency_warnings:
+        return True
+
+    if agent_name in consistency_notes:
+        return True
+
+    if result.confidence <= 30:
+        return True
+
+    return False

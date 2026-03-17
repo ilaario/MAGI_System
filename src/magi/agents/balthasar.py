@@ -92,6 +92,8 @@ Constraints:
 - assumptions must contain exactly 2 items
 - confidence must be an integer from 0 to 100
 - each item must be a single concise sentence
+
+At least one reasoning item must explicitly refer to the selected option or its defining trade-off.
 """.strip()
 
 

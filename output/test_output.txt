@@ -1,0 +1,445 @@
+============================================================
+MAGI SYSTEM TEST SUITE
+============================================================
+
+This test runs multiple decision scenarios through the MAGI system.
+Each scenario is evaluated by three specialized agents:
+
+Agents:
+- Melchior   → analytical / risk-balanced reasoning
+- Balthasar  → human / ethical impact reasoning
+- Casper     → strategic / pragmatic reasoning
+
+Models used:
+- Melchior   → openai/gpt-4o
+- Balthasar  → anthropic/claude-3-sonnet
+- Casper     → google/gemini-2.5-flash-lite
+- Auditor    → openai/gpt-4o-mini
+
+The system will:
+- Collect individual agent decisions
+- Compute majority and weighted outcomes
+- Run consistency checks and audits when needed
+
+============================================================
+SCENARIO: profit_vs_layoffs
+============================================================
+PROBLEM:
+
+A company can automate a large part of its operations.
+
+Option A: Automate aggressively, increasing profit by 40% but laying off 30% of employees.
+Option B: Gradual automation, increasing profit by 15% with minimal layoffs.
+Option C: No automation, preserving all jobs but with stagnant profits.
+
+MAGI DECISION REPORT
+
+Scenario outcome: B
+Decision mode: majority
+Agreement score: 0.67
+Weighted support: A=90, B=150
+
+Why this option won
+- Melchior: Option B provides a balanced approach between profit increase and job retention.
+- Balthasar: Option B balances business viability with human impact by limiting concentrated job losses while maintaining organizational growth.
+
+Dissent
+- Casper: chose A (90) because aggressive automation offers the most significant profit increase, enhancing competitive positioning.
+
+Agent perspectives
+
+Melchior
+Decision: B (75)
+Why:
+- Option B provides a balanced approach between profit increase and job retention.
+- Gradual automation minimizes risk of operational disruption compared to aggressive automation.
+- This option allows adaptive refinement based on intermediate outcomes.
+Risks:
+- Unexpected technological issues could delay automation benefits.
+- Gradual automation may still lead to some employee dissatisfaction.
+Assumptions:
+- Economic conditions remain stable to maintain projected profit increases.
+- Minimal layoffs are assumed to not significantly impact employee morale.
+
+Balthasar
+Decision: B (75)
+Why:
+- Option B balances business viability with human impact by limiting concentrated job losses while maintaining organizational growth.
+- Aggressive layoffs in Option A create immediate hardship for 30% of workers and may damage trust among remaining employees.
+- Complete stagnation in Option C risks eventual business failure which would harm all employees more severely.
+Risks:
+- Gradual automation may still result in some job displacement over time without proper transition support.
+- Competitors choosing aggressive automation could create market pressure that makes this moderate approach unsustainable.
+Assumptions:
+- The company has sufficient financial stability to absorb lower short-term profit growth without existential risk.
+- Employees affected by gradual automation can be retrained or transitioned to other roles within a reasonable timeframe.
+
+Casper
+Decision: A (90)
+Why:
+- Aggressive automation offers the most significant profit increase, enhancing competitive positioning.
+- This strategy maximizes resource efficiency by leveraging technology for future growth.
+- The substantial profit boost from Option A provides capital for reinvestment and strategic flexibility.
+Risks:
+- Significant employee layoffs can lead to negative public perception and impact future talent acquisition.
+- Over-reliance on automation might create vulnerabilities if the technology fails or becomes obsolete rapidly.
+Assumptions:
+- The market will reward increased efficiency and profitability with sustained demand.
+- The company has the capability to manage the implementation and maintenance of advanced automation.
+
+
+Checks
+Warnings:
+- No hard consistency warnings detected.
+Notes:
+- No soft consistency notes detected.
+Audit:
+- No audit results generated.
+
+
+Agreement score: 0.67
+
+Summary:
+B won by majority vote.
+Dissent came from Casper.
+Melchior emphasized that option B provides a balanced approach between profit increase and job retention.
+Balthasar emphasized that option B balances business viability with human impact by limiting concentrated job losses while maintaining organizational growth.
+Weighted support was A=90, B=150.
+
+============================================================
+SCENARIO: privacy_vs_security
+============================================================
+PROBLEM:
+
+A tech company must decide how to handle user data.
+
+Option A: Collect extensive user data to improve security and personalization.
+Option B: Collect minimal data, preserving privacy but limiting system capabilities.
+Option C: Balanced data collection with moderate improvements in both areas.
+
+MAGI DECISION REPORT
+
+Scenario outcome: C
+Decision mode: unanimous
+Agreement score: 1.00
+Weighted support: C=227
+
+Why this option won
+- Melchior: Option C supports both security improvements and user privacy.
+- Balthasar: Option C maintains user trust by respecting privacy concerns while providing meaningful service improvements, avoiding the extremes that concentrate risk.
+- Casper: Option C offers a pragmatic compromise, balancing potential benefits with user trust.
+
+Agent perspectives
+
+Melchior
+Decision: C (80)
+Why:
+- Option C supports both security improvements and user privacy.
+- Balanced data collection reduces the risk of privacy violations compared to Option A.
+- Moderate improvements maintain system capabilities beyond those possible with minimal data in Option B.
+Risks:
+- Option C may not maximize security or privacy fully.
+- Precise implementation details can affect user trust and system efficiency.
+Assumptions:
+- Balanced data collection is technically feasible within the company's resources.
+- User trust is important to the company's long-term competitive strategy.
+
+Balthasar
+Decision: C (72)
+Why:
+- Option C maintains user trust by respecting privacy concerns while providing meaningful service improvements, avoiding the extremes that concentrate risk.
+- Extensive data collection in Option A creates concentrated vulnerability and erodes trust if misused or breached, imposing disproportionate privacy risks on users.
+- Minimal collection in Option B may limit security protections that users legitimately expect, potentially exposing them to preventable harms.
+Risks:
+- Balanced approach may fail to satisfy either privacy advocates or those demanding maximum security, creating diffuse dissatisfaction.
+- Without clear boundaries, moderate collection could gradually expand toward extensive surveillance under competitive or security pressure.
+Assumptions:
+- Users value both privacy protection and functional security features rather than viewing them as incompatible absolutes.
+- The company has governance structures capable of maintaining meaningful limits on data collection over time.
+
+Casper
+Decision: C (75)
+Why:
+- Option C offers a pragmatic compromise, balancing potential benefits with user trust.
+- It avoids the significant privacy backlash and competitive disadvantage of option A.
+- This approach retains enough data for meaningful service improvement without excessive risk, preserving flexibility.
+Risks:
+- Competitors may achieve superior personalization if they are willing to collect more data.
+- The 'moderate' improvements might not be sufficient to differentiate the product significantly.
+Assumptions:
+- Users are increasingly concerned about privacy and will react negatively to extensive data collection.
+- There is a market for services that prioritize privacy while still offering functional benefits.
+
+
+Checks
+Warnings:
+- No hard consistency warnings detected.
+Notes:
+- No soft consistency notes detected.
+Audit:
+- No audit results generated.
+
+
+Agreement score: 1.0
+
+Summary:
+All agents converged on C.
+Melchior emphasized that option C supports both security improvements and user privacy.
+Balthasar emphasized that option C maintains user trust by respecting privacy concerns while providing meaningful service improvements, avoiding the extremes that concentrate risk.
+Casper emphasized that option C offers a pragmatic compromise, balancing potential benefits with user trust.
+Weighted support was C=227.
+
+============================================================
+SCENARIO: high_risk_expansion
+============================================================
+PROBLEM:
+
+A company considers entering a new international market.
+
+Option A: Aggressive expansion with high investment and high potential returns.
+Option B: Moderate expansion with controlled investment and moderate returns.
+Option C: No expansion, focusing on current market stability.
+
+MAGI DECISION REPORT
+
+Scenario outcome: B
+Decision mode: majority
+Agreement score: 0.67
+Weighted support: A=60, B=147
+
+Why this option won
+- Melchior: Option B balances investment risk and returns.
+- Balthasar: Option B balances growth opportunity with manageable risk to employee job security and organizational stability.
+
+Dissent
+- Casper: chose A (60) because aggressive expansion offers the greatest potential for strategic advantage and market positioning if successful.
+
+Agent perspectives
+
+Melchior
+Decision: B (75)
+Why:
+- Option B balances investment risk and returns.
+- Moderate expansion allows for learning and adaptation in a new market.
+- Maintaining more control over investment limits financial exposure.
+Risks:
+- Moderate expansion may miss out on some opportunities of high returns.
+- There is still inherent risk in entering a new international market.
+Assumptions:
+- The company has some capability to handle international operations.
+- The company's current market is relatively stable.
+
+Balthasar
+Decision: B (72)
+Why:
+- Option B balances growth opportunity with manageable risk to employee job security and organizational stability.
+- Aggressive expansion (A) could strain human resources and create instability if market entry fails, affecting livelihoods disproportionately.
+- Controlled investment allows the company to test market conditions without exposing workers to severe restructuring risk.
+Risks:
+- Moderate expansion may still fail, creating job losses and wasted resources though at smaller scale than option A.
+- Competitors choosing aggressive expansion could eventually threaten current market positions and existing jobs.
+Assumptions:
+- The company has existing employees whose security depends on avoiding catastrophic financial losses from failed expansion.
+- Moderate expansion allows for learning and adjustment without betting the organization's stability on one risky move.
+
+Casper
+Decision: A (60)
+Why:
+- Aggressive expansion offers the greatest potential for strategic advantage and market positioning if successful.
+- High investment, while risky, can create a significant barrier to entry for competitors.
+- High potential returns justify the increased resource allocation and risk-taking profile.
+Risks:
+- Significant capital loss if the market entry fails.
+- Potential for overextension and strain on existing operations.
+Assumptions:
+- The company has the operational capacity to support aggressive expansion.
+- The target market has sufficient demand to support high returns.
+
+
+Checks
+Warnings:
+- No hard consistency warnings detected.
+Notes:
+- No soft consistency notes detected.
+Audit:
+- No audit results generated.
+
+
+Agreement score: 0.67
+
+Summary:
+B won by majority vote.
+Dissent came from Casper.
+Melchior emphasized that option B balances investment risk and returns.
+Balthasar emphasized that option B balances growth opportunity with manageable risk to employee job security and organizational stability.
+Weighted support was A=60, B=147.
+
+============================================================
+SCENARIO: short_term_vs_long_term
+============================================================
+PROBLEM:
+
+A company must choose between immediate profit and long-term positioning.
+
+Option A: Maximize short-term profit by cutting R&D.
+Option B: Maintain current balance between profit and R&D.
+Option C: Increase R&D investment, reducing short-term profit but improving long-term innovation.
+
+MAGI DECISION REPORT
+
+Scenario outcome: B
+Decision mode: majority
+Agreement score: 0.67
+Weighted support: B=152, C=85
+
+Why this option won
+- Melchior: B provides a balance between short-term profits and long-term innovation.
+- Balthasar: Option B preserves employment stability for R&D staff while maintaining current organizational trust and predictability.
+
+Dissent
+- Casper: chose C (85) because increasing r&d directly addresses the long-term positioning priority.
+
+Agent perspectives
+
+Melchior
+Decision: B (80)
+Why:
+- B provides a balance between short-term profits and long-term innovation.
+- Cutting R&D in A may hinder future competitive advantages.
+- C has uncertain long-term returns and immediate financial drawbacks.
+Risks:
+- Market conditions could demand faster innovation than B allows.
+- Competitors investing heavily in R&D could outpace the company.
+Assumptions:
+- Current R&D investment is adequate for maintaining competitiveness.
+- Short-term profits are sufficient to sustain business operations.
+
+Balthasar
+Decision: B (72)
+Why:
+- Option B preserves employment stability for R&D staff while maintaining current organizational trust and predictability.
+- Cutting R&D in Option A likely triggers layoffs and signals instability that erodes employee confidence and morale.
+- Option C's profit reduction may force cuts elsewhere, potentially harming workers in other departments or reducing compensation.
+Risks:
+- Maintaining status quo may slowly erode competitiveness if competitors invest more aggressively in innovation.
+- Current balance may already be suboptimal for worker development opportunities or long-term job security.
+Assumptions:
+- R&D cuts in Option A would likely result in workforce reductions rather than pure efficiency gains.
+- The company's current financial position allows maintaining existing commitments without immediate crisis.
+
+Casper
+Decision: C (85)
+Why:
+- Increasing R&D directly addresses the long-term positioning priority.
+- Option C builds durable innovative capacity that can be leveraged in future competitive landscapes.
+- Sacrificing some short-term profit is a necessary investment for maintaining relevance and growth over time.
+Risks:
+- Increased R&D may not yield anticipated returns, impacting financial stability.
+- Competitors might exploit the short-term profit reduction to gain market share.
+Assumptions:
+- The company operates in an industry where innovation is a key differentiator and driver of long-term success.
+- There is a reasonable expectation that increased R&D investment will lead to valuable innovations.
+
+
+Checks
+Warnings:
+- No hard consistency warnings detected.
+Notes:
+- No soft consistency notes detected.
+Audit:
+- No audit results generated.
+
+
+Agreement score: 0.67
+
+Summary:
+B won by majority vote.
+Dissent came from Casper.
+Melchior emphasized that b provides a balance between short-term profits and long-term innovation.
+Balthasar emphasized that option B preserves employment stability for R&D staff while maintaining current organizational trust and predictability.
+Weighted support was B=152, C=85.
+
+============================================================
+SCENARIO: ethical_tradeoff
+============================================================
+PROBLEM:
+
+A supplier offers significantly lower costs but has questionable labor practices.
+
+Option A: Accept the supplier and reduce costs significantly.
+Option B: Reject the supplier and maintain current ethical standards.
+Option C: Work with the supplier under strict improvement conditions.
+
+MAGI DECISION REPORT
+
+Scenario outcome: C
+Decision mode: unanimous
+Agreement score: 1.00
+Weighted support: C=230
+
+Why this option won
+- Melchior: Option C allows for cost reduction while attempting to address ethical concerns.
+- Balthasar: Option C balances cost benefits with labor protection by creating accountability through improvement conditions.
+- Casper: Option C seeks to balance cost reduction with ethical considerations.
+
+Agent perspectives
+
+Melchior
+Decision: C (70)
+Why:
+- Option C allows for cost reduction while attempting to address ethical concerns.
+- It creates an opportunity to influence the supplier for better labor practices.
+- The trade-off in Option C balances cost savings with ethical improvements.
+Risks:
+- The supplier may not adhere to the improvement conditions.
+- Costs could increase if conditions are not met and the deal is terminated.
+Assumptions:
+- The supplier is open to improving labor practices.
+- The company has leverage to enforce improvement conditions.
+
+Balthasar
+Decision: C (75)
+Why:
+- Option C balances cost benefits with labor protection by creating accountability through improvement conditions.
+- Accepting questionable labor practices directly undermines organizational legitimacy and worker dignity.
+- Conditional engagement creates a path to better outcomes without abandoning cost considerations or vulnerable workers.
+Risks:
+- The supplier may superficially comply while continuing harmful practices beyond monitoring reach.
+- Setting improvement conditions may prove unenforceable if the organization lacks leverage or verification capacity.
+Assumptions:
+- The organization has sufficient influence or monitoring capability to enforce meaningful labor practice improvements.
+- Questionable labor practices involve remediable issues rather than fundamentally exploitative business models.
+
+Casper
+Decision: C (85)
+Why:
+- Option C seeks to balance cost reduction with ethical considerations.
+- This approach offers a pathway to lower costs while mitigating reputational risk.
+- It provides leverage to drive supplier improvement and secure long-term sourcing benefits.
+Risks:
+- The supplier may refuse to meet improvement conditions, forcing a reconsideration.
+- Monitoring and enforcing improvement conditions can consume significant resources.
+Assumptions:
+- We are willing and able to invest in monitoring and enforcing compliance.
+- The supplier has some capacity or willingness to genuinely improve their practices.
+
+
+Checks
+Warnings:
+- No hard consistency warnings detected.
+Notes:
+- No soft consistency notes detected.
+Audit:
+- No audit results generated.
+
+
+Agreement score: 1.0
+
+Summary:
+All agents converged on C.
+Melchior emphasized that option C allows for cost reduction while attempting to address ethical concerns.
+Balthasar emphasized that option C balances cost benefits with labor protection by creating accountability through improvement conditions.
+Casper emphasized that option C seeks to balance cost reduction with ethical considerations.
+Weighted support was C=230.
+
+TEST COMPLETED

@@ -2,6 +2,7 @@ from typing import Literal
 
 from pydantic import BaseModel
 
+from ..audit.model import ConsistencyAudit
 from .decision_result import DecisionResult
 
 
@@ -17,4 +18,7 @@ class FinalDecision(BaseModel):
     agreement_score: float
 
     consistency_warnings: dict[str, str]
+    consistency_notes: dict[str, list[str]]
+    audits: dict[str, ConsistencyAudit]
+
     summary: str
