@@ -186,9 +186,16 @@ src/magi
 │   ├── balthasar.py
 │   └── casper.py
 │
+├── audit
+│   ├── consistency_auditor.py
+│   └── model.py
+│
 ├── models
 │   ├── decision_result.py
 │   └── final_decision.py
+│
+├── runtime
+│   └── parallel_runner.py
 │
 ├── voting
 │   ├── comparator.py
