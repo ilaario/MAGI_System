@@ -20,5 +20,10 @@ class FinalDecision(BaseModel):
     consistency_warnings: dict[str, str]
     consistency_notes: dict[str, list[str]]
     audits: dict[str, ConsistencyAudit]
+    is_partial: bool
+    missing_agents: list[str]
+
+    needs_recovery_round: bool
+    recovery_reason: str | None
 
     summary: str

@@ -1,9 +1,11 @@
 from collections import Counter, defaultdict
 
 from magi.audit.consistency_auditor import ConsistencyAuditor
-from magi.llm_client import LLMClient
+from magi.audit.model import ConsistencyAudit
 from magi.models.decision_result import DecisionResult
 from magi.models.final_decision import FinalDecision
+
+EXPECTED_AGENTS = {"Melchior", "Balthasar", "Casper"}
 
 
 def compute_agreement_score(results: dict[str, DecisionResult]) -> float:
@@ -13,12 +15,49 @@ def compute_agreement_score(results: dict[str, DecisionResult]) -> float:
     return round(top_count / len(votes), 2)
 
 
+def compute_weighted_scores(results: dict[str, DecisionResult]) -> dict[str, int]:
+    scores: dict[str, int] = defaultdict(int)
+
+    for result in results.values():
+        scores[result.decision] += result.confidence
+
+    return dict(scores)
+
+
+def should_request_recovery_round(
+    results: dict[str, DecisionResult],
+    is_partial: bool,
+    vote_type: str,
+) -> tuple[bool, str | None]:
+    if len(results) < 2:
+        return True, "Fewer than two valid agent outputs are available."
+
+    if is_partial and len(results) == 2:
+        votes = {result.decision for result in results.values()}
+        if len(votes) == 2:
+            return (
+                True,
+                "Panel is incomplete and the two available agents are split 1-1.",
+            )
+
+    if len(results) == 3 and vote_type == "split":
+        return True, "All three agents returned different decisions."
+
+    return False, None
+
+
 def compare_agent_results(
     results: dict[str, DecisionResult], scenario: str
 ) -> FinalDecision:
+    if not results:
+        raise ValueError("compare_agent_results received no valid agent results.")
+
+    present_agents = set(results.keys())
+    missing_agents = sorted(EXPECTED_AGENTS - present_agents)
+    is_partial = len(missing_agents) > 0
+
     votes = {agent: result.decision for agent, result in results.items()}
     counter = Counter(votes.values())
-
     most_common = counter.most_common()
     top_decision, top_count = most_common[0]
 
@@ -29,19 +68,34 @@ def compare_agent_results(
     else:
         vote_type = "split"
 
-    winning_agents = [agent for agent, vote in votes.items() if vote == top_decision]
-    dissenting_agents = [agent for agent, vote in votes.items() if vote != top_decision]
-
     weighted_scores = compute_weighted_scores(results)
     weighted_winner = max(weighted_scores, key=lambda k: weighted_scores[k])
-
     agreement_score = compute_agreement_score(results)
+
+    needs_recovery_round, recovery_reason = should_request_recovery_round(
+        results=results,
+        is_partial=is_partial,
+        vote_type=vote_type,
+    )
+
+    # If we have an unresolved/incomplete deadlock, do not pretend we have a real winner.
+    if needs_recovery_round:
+        final_decision = "UNRESOLVED"
+        winning_agents = []
+        dissenting_agents = list(results.keys())
+    else:
+        final_decision = top_decision
+        winning_agents = [
+            agent for agent, vote in votes.items() if vote == final_decision
+        ]
+        dissenting_agents = [
+            agent for agent, vote in votes.items() if vote != final_decision
+        ]
 
     consistency_warnings = detect_consistency_warnings(results)
     consistency_notes = detect_consistency_notes(results)
 
     audits = {}
-    # auditor = ConsistencyAuditor(model="openrouter/free")
     auditor = ConsistencyAuditor(model="openai/gpt-4o-mini")
 
     for agent_name, result in results.items():
@@ -51,16 +105,20 @@ def compare_agent_results(
             try:
                 audits[agent_name] = auditor.audit(scenario, result)
             except Exception as e:
-                # fallback minimale, così non ti si rompe tutto per una risposta sporca del validator
-                audits[agent_name] = {
-                    "is_consistent": False,
-                    "severity": "high",
-                    "issues": [f"Audit failed: {e}"],
-                    "explanation": "The auditor could not validate this output.",
-                }
+                audits[agent_name] = ConsistencyAudit(
+                    supports_selected_option=False,
+                    acknowledges_tradeoffs=False,
+                    implicitly_supports_alternative=False,
+                    reasoning_is_generic=True,
+                    direct_contradiction_present=False,
+                    is_consistent=False,
+                    severity="high",
+                    issues=[f"Audit failed: {e}"],
+                    explanation="The auditor could not validate this output.",
+                )
 
     summary = build_summary(
-        final_decision=top_decision,
+        final_decision=final_decision,
         vote_type=vote_type,
         results=results,
         winning_agents=winning_agents,
@@ -68,10 +126,12 @@ def compare_agent_results(
         weighted_scores=weighted_scores,
         weighted_winner=weighted_winner,
         consistency_warnings=consistency_warnings,
+        needs_recovery_round=needs_recovery_round,
+        recovery_reason=recovery_reason,
     )
 
     return FinalDecision(
-        final_decision=top_decision,
+        final_decision=final_decision,
         vote_type=vote_type,
         winning_agents=winning_agents,
         dissenting_agents=dissenting_agents,
@@ -83,16 +143,11 @@ def compare_agent_results(
         agreement_score=agreement_score,
         consistency_notes=consistency_notes,
         audits=audits,
+        is_partial=is_partial,
+        missing_agents=missing_agents,
+        needs_recovery_round=needs_recovery_round,
+        recovery_reason=recovery_reason,
     )
-
-
-def compute_weighted_scores(results: dict[str, DecisionResult]) -> dict[str, int]:
-    scores: dict[str, int] = defaultdict(int)
-
-    for result in results.values():
-        scores[result.decision] += result.confidence
-
-    return dict(scores)
 
 
 def detect_consistency_warnings(results: dict[str, DecisionResult]) -> dict[str, str]:
@@ -161,7 +216,6 @@ def detect_consistency_warnings(results: dict[str, DecisionResult]) -> dict[str,
         score = 0
         details = []
 
-        # 1. Very low confidence
         if result.confidence <= 15:
             score += 1
             details.append(
@@ -170,7 +224,6 @@ def detect_consistency_warnings(results: dict[str, DecisionResult]) -> dict[str,
         elif result.confidence <= 30:
             details.append(f"low confidence in selected option ({result.confidence})")
 
-        # 2. Negative cues about selected option
         matched_negative = [
             cue for cue in negative_cues.get(selected, []) if cue in full_text
         ]
@@ -180,7 +233,6 @@ def detect_consistency_warnings(results: dict[str, DecisionResult]) -> dict[str,
                 f"negative cues about selected option {selected}: {', '.join(sorted(set(matched_negative)))}"
             )
 
-        # 3. Reasoning seems to favor another option
         praise_other_option = []
         for other in other_options:
             patterns = [
@@ -207,7 +259,6 @@ def detect_consistency_warnings(results: dict[str, DecisionResult]) -> dict[str,
                 f"reasoning appears to favor another option: {', '.join(sorted(set(praise_other_option)))}"
             )
 
-        # 4. Severe risks paired with stability/safety reasoning
         matched_severe_risks = [
             term for term in severe_risk_terms if term in risks_text
         ]
@@ -221,7 +272,6 @@ def detect_consistency_warnings(results: dict[str, DecisionResult]) -> dict[str,
                 f"reasoning emphasizes safety/stability but risks remain severe: {', '.join(sorted(set(matched_severe_risks)))}"
             )
 
-        # 5. Weak anchoring to selected option
         explicit_anchor_patterns = [
             f"option {selected.lower()}",
             f"{selected.lower()} ",
@@ -279,31 +329,30 @@ def detect_consistency_notes(
         reasoning_text = " ".join(result.reasoning).lower()
         assumptions_text = " ".join(result.assumptions).lower()
 
-        # 1. Low confidence
         if result.confidence <= 15:
             agent_notes.append(f"very low confidence ({result.confidence})")
         elif result.confidence <= 30:
             agent_notes.append(f"low confidence ({result.confidence})")
 
-        # 2. Weak anchoring to the chosen option
         selected = result.decision.lower()
         anchor_patterns = [
             f"option {selected}",
             f"{selected} ",
         ]
-        if not any(pattern in reasoning_text for pattern in anchor_patterns):
-            agent_notes.append("reasoning is weakly anchored to the selected option")
 
-        # 3. Overly generic reasoning
-        generic_hits = [term for term in generic_terms if term in reasoning_text]
         specific_hits = [
             term for term in scenario_specific_terms if term in reasoning_text
         ]
+        if (
+            not any(pattern in reasoning_text for pattern in anchor_patterns)
+            and len(specific_hits) == 0
+        ):
+            agent_notes.append("reasoning is weakly anchored to the selected option")
 
+        generic_hits = [term for term in generic_terms if term in reasoning_text]
         if len(generic_hits) >= 2 and len(specific_hits) == 0:
             agent_notes.append("reasoning may be overly generic")
 
-        # 4. Assumptions may be speculative
         speculative_markers = [
             "market conditions",
             "leadership values",
@@ -331,10 +380,23 @@ def build_summary(
     weighted_scores: dict[str, int],
     weighted_winner: str,
     consistency_warnings: dict[str, str],
+    needs_recovery_round: bool,
+    recovery_reason: str | None,
 ) -> str:
     sentences: list[str] = []
 
-    if vote_type == "unanimous":
+    if len(results) < 3:
+        missing = EXPECTED_AGENTS - set(results.keys())
+        if missing:
+            sentences.append(
+                f"This result is partial because the following agent(s) did not return valid outputs: {', '.join(sorted(missing))}."
+            )
+
+    if needs_recovery_round:
+        sentences.append(
+            f"No final MAGI decision is available yet because a recovery round is required. {recovery_reason}"
+        )
+    elif vote_type == "unanimous":
         sentences.append(f"All agents converged on {final_decision}.")
     elif vote_type == "majority":
         dissent_text = ", ".join(dissenting_agents)
@@ -358,7 +420,9 @@ def build_summary(
     weighted_text = ", ".join(
         f"{decision}={score}" for decision, score in sorted(weighted_scores.items())
     )
-    sentences.append(f"Weighted support was {weighted_text}.")
+    sentences.append(
+        f"Weighted support was {weighted_text}, with {weighted_winner} currently leading."
+    )
 
     if consistency_warnings:
         flagged = ", ".join(consistency_warnings.keys())
@@ -376,7 +440,7 @@ def should_audit_agent(
     if agent_name in consistency_warnings:
         return True
 
-    if agent_name in consistency_notes:
+    if agent_name in consistency_notes and len(consistency_notes[agent_name]) >= 2:
         return True
 
     if result.confidence <= 30:

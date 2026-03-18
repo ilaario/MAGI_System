@@ -53,12 +53,47 @@ Typical question:
 
 ---
 
-# Decision Aggregation
+# Execution Model
+
+Each scenario is evaluated using a multi-stage process:
+
+1. **Parallel evaluation**
+   - All agents run concurrently
+
+2. **Fallback recovery**
+   - Failed agents are retried sequentially
+
+3. **Partial result handling**
+   - If some agents fail, the system still produces a structured partial output
+
+4. **Decision validation**
+   - If the panel is incomplete or split, a recovery round may be required
+
+5. **Final decision**
+   - Only produced when a valid majority or consensus exists
+
+## Decision Aggregation
+
+The MAGI system does not always force a decision. In cases of incomplete or conflicting evaluations, it may return an unresolved state and trigger a recovery round to restore a full decision panel.
 
 After all agents evaluate a scenario, their outputs are combined using a comparator that performs:
 
 ### Majority vote
 The option selected by the majority of agents becomes the final decision.
+
+## Decision Logic
+
+The system classifies outcomes as:
+
+- **Unanimous** → all agents agree
+- **Majority** → at least 2 agents agree
+- **Split** → no majority
+
+Special cases:
+
+- If only 2 agents respond and they disagree → no decision is made
+- If all 3 agents disagree → decision is unresolved
+- In these cases, a recovery round is triggered
 
 ### Weighted vote
 Confidence scores are summed per decision to measure the strength of support.
@@ -80,13 +115,25 @@ Measures convergence among agents.
 | 2–1 majority | 0.67 |
 | full disagreement | 0.33 |
 
-### Consistency checks
-Basic heuristics detect cases where an agent:
+## Consistency & Audit
 
-- selects an option
-- but describes it using strongly negative reasoning
+Each agent output is analyzed for internal consistency:
 
-This helps identify **internally inconsistent outputs**.
+- alignment between reasoning and chosen decision
+- contradiction detection
+- confidence validation
+- generic vs scenario-specific reasoning
+
+Flagged outputs are passed to an LLM-based auditor for deeper validation.
+
+## Fault Tolerance
+
+The system is designed to handle model failures gracefully:
+
+- Individual agent failures do not break the system
+- Failed agents are retried in a fallback phase
+- Results remain usable even in partial conditions
+- A recovery round ensures decision integrity when needed
 
 ---
 
@@ -110,6 +157,22 @@ Agent perspectives
 ...
 ```
 This makes the system easier to inspect and reason about.
+
+In case of unresolved decision, the report shows information about the run.
+
+```
+Final decision: UNRESOLVED
+Reason: Panel is incomplete and agents are split 1-1
+Action: Recovery round required
+```
+
+---
+
+# Design Philosophy
+
+The system prioritizes decision integrity over forced outputs.
+
+It is preferable to return an unresolved state than to produce a misleading majority from incomplete data.
 
 ---
 
@@ -196,4 +259,4 @@ This project explores a similar idea using modern LLMs.
 
 # License
 
-MIT
+This project is licensed under the MIT License.

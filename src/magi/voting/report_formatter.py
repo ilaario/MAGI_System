@@ -18,6 +18,13 @@ def format_final_decision_report(final: FinalDecision) -> str:
 
     lines.append("MAGI DECISION REPORT")
     lines.append("")
+
+    if final.is_partial:
+        lines.append("Partial result: yes")
+        lines.append(f"Missing agents: {', '.join(final.missing_agents)}")
+    else:
+        lines.append("Partial result: no")
+
     lines.append(f"Scenario outcome: {final.final_decision}")
     lines.append(f"Decision mode: {final.vote_type}")
     lines.append(f"Agreement score: {final.agreement_score:.2f}")
@@ -39,7 +46,7 @@ def format_final_decision_report(final: FinalDecision) -> str:
             )
 
     lines.append("")
-    lines.append("Agent perspectives")
+    lines.append("AGENTS PERSPECTIVE")
 
     for agent_name, result in final.results.items():
         lines.append("")

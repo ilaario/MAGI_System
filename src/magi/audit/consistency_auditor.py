@@ -32,75 +32,69 @@ from magi.llm_client import LLMClient
 from magi.models.decision_result import DecisionResult
 
 AUDITOR_SYSTEM_PROMPT = """
-You are a strict consistency auditor in a multi-agent decision system.
+You are a strict but fair consistency auditor in a multi-agent decision system.
 
-Your role is NOT to evaluate which option is best.
-Your role is NOT to propose an alternative decision.
+Your job is NOT to decide which option is best.
+Your job is NOT to judge whether the chosen decision is optimal.
 
-Your ONLY task is to evaluate whether the agent's selected decision is
-internally consistent with its own output.
+Your ONLY task is to evaluate whether the selected decision is internally
+supported by the agent's own reasoning, risks, assumptions, and scenario context.
 
-You must check alignment between:
-- the selected decision
-- the reasoning
-- the listed risks
-- the assumptions
-- the scenario context
+Important:
+A decision can still be internally consistent even if it has serious risks.
+Acknowledging risks or trade-offs does NOT make a decision inconsistent.
 
---------------------------------
-EVALUATION CRITERIA
---------------------------------
+A decision should be marked inconsistent only if:
+- the reasoning does not actually support the selected option
+- the reasoning more strongly supports another option
+- the selected option is described as undesirable without justification
+- there is a direct contradiction between the chosen option and the agent's explanation
 
-1. DECISION SUPPORT
-Does the reasoning clearly justify the selected option?
-Or is it generic, weak, or not specific to the chosen option?
+Do NOT treat normal trade-offs as contradictions.
+Do NOT penalize moderate or compromise options just because they have downsides.
+Do NOT assume that mentioning risks undermines the choice.
 
-2. CONTRADICTIONS
-Does the agent describe the chosen option as harmful, risky, or undesirable
-without properly justifying why it is still selected?
+Evaluate the following dimensions:
 
-3. ALTERNATIVE SUPPORT
-Does the reasoning implicitly support another option more strongly than the chosen one?
+1. supports_selected_option
+Does the reasoning clearly support the selected option?
 
-4. RISK CONSISTENCY
-Do the listed risks significantly undermine the decision?
-Are risks acknowledged but still logically compatible with the choice?
+2. acknowledges_tradeoffs
+Are the listed risks and downsides presented as accepted trade-offs rather than contradictions?
 
-5. SPECIFICITY
-Is the reasoning concrete and grounded in the scenario,
-or vague and interchangeable with any option?
+3. implicitly_supports_alternative
+Does the reasoning appear to favor another option more strongly than the chosen one?
 
---------------------------------
-SEVERITY GUIDELINES
---------------------------------
+4. reasoning_is_generic
+Is the reasoning too generic or weakly grounded in the scenario?
 
-- "none": Fully consistent. Reasoning clearly supports the decision.
-- "low": Minor issues (slightly generic reasoning, but still aligned).
-- "medium": Noticeable weaknesses or partial inconsistencies.
-- "high": Clear contradiction or reasoning supports another option.
+5. direct_contradiction_present
+Is there a direct contradiction between the decision and the explanation?
 
---------------------------------
-IMPORTANT RULES
---------------------------------
+Severity guidance:
+- none: clearly consistent
+- low: mostly consistent, minor weakness or generic phrasing
+- medium: noticeable weakness or ambiguity
+- high: clear contradiction or stronger support for another option
 
-- Do NOT say which option is better.
-- Do NOT re-evaluate the scenario from scratch.
-- Judge ONLY internal consistency of the given output.
-- Be strict: weak or generic reasoning should NOT be considered fully consistent.
-- Prefer flagging issues over being overly lenient.
-
---------------------------------
-OUTPUT FORMAT (STRICT)
---------------------------------
-
-Return ONLY valid JSON. No extra text.
+Return ONLY valid JSON in this format:
 
 {
+  "supports_selected_option": true,
+  "acknowledges_tradeoffs": true,
+  "implicitly_supports_alternative": false,
+  "reasoning_is_generic": false,
+  "direct_contradiction_present": false,
   "is_consistent": true,
   "severity": "none",
   "issues": [],
-  "explanation": "Clear, concise explanation of your judgment."
+  "explanation": "..."
 }
+
+Rules:
+- "issues" must be a list of short strings only
+- do not return objects inside "issues"
+- be strict, but do not confuse trade-offs with contradictions
 """
 
 
@@ -116,7 +110,8 @@ class ConsistencyAuditor:
             user_prompt=prompt,
         )
 
-        return self._parse_response(response)
+        parsed = self._parse_response(response)
+        return self._normalize_audit(parsed)
 
     def _build_prompt(self, scenario: str, result: DecisionResult) -> str:
         return f"""
@@ -164,12 +159,48 @@ Assumptions:
         return "\n".join(f"- {item}" for item in items)
 
     def _parse_response(self, response: str) -> ConsistencyAudit:
-        try:
-            response = response.strip()
-            response = response[response.find("{") : response.rfind("}") + 1]
-            data = json.loads(response)
-            return ConsistencyAudit(**data)
-        except Exception as e:
+        response = response.strip()
+        start = response.find("{")
+        end = response.rfind("}")
+
+        if start == -1 or end == -1 or end < start:
             raise ValueError(
-                f"Failed to parse auditor response: {e}\nResponse: {response}"
+                f"Failed to parse auditor response: no JSON found\nResponse: {response}"
             )
+
+        json_text = response[start : end + 1]
+        data = json.loads(json_text)
+
+        issues = data.get("issues", [])
+        normalized_issues = []
+
+        for item in issues:
+            if isinstance(item, str):
+                normalized_issues.append(item)
+            elif isinstance(item, dict):
+                issue = item.get("issue", "").strip()
+                description = item.get("description", "").strip()
+                if issue and description:
+                    normalized_issues.append(f"{issue}: {description}")
+                elif issue:
+                    normalized_issues.append(issue)
+                elif description:
+                    normalized_issues.append(description)
+
+        data["issues"] = normalized_issues
+
+        return ConsistencyAudit.model_validate(data)
+
+    def _normalize_audit(self, audit: ConsistencyAudit) -> ConsistencyAudit:
+        # If reasoning supports the choice and there is no direct contradiction,
+        # do not allow "high" severity unless it explicitly supports another option.
+        if (
+            audit.supports_selected_option
+            and not audit.direct_contradiction_present
+            and not audit.implicitly_supports_alternative
+            and audit.severity == "high"
+        ):
+            audit.severity = "low" if audit.reasoning_is_generic else "none"
+            audit.is_consistent = not audit.reasoning_is_generic
+
+        return audit

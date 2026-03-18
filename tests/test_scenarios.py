@@ -3,6 +3,10 @@ import sys
 from magi.agents.balthasar import Balthasar
 from magi.agents.casper import Casper
 from magi.agents.melchior import Melchior
+from magi.runtime.parallel_runner import (
+    run_agents_parallel,
+    run_agents_parallel_with_fallback,
+)
 from magi.voting.comparator import compare_agent_results
 from magi.voting.report_formatter import format_final_decision_report
 
@@ -80,10 +84,15 @@ def run_suite():
 
     sys.stdout = Tee(sys.stdout, log_file)
 
-    melchior = Melchior("openai/gpt-4o")
-    balthasar = Balthasar("anthropic/claude-sonnet-4.5")
-    casper = Casper("google/gemini-2.5-flash-lite")
+    # melchior = Melchior("openai/gpt-4o")
+    # balthasar = Balthasar("anthropic/claude-sonnet-4.5")
+    # casper = Casper("google/gemini-2.5-flash-lite")
 
+    melchior = Melchior()
+    balthasar = Balthasar()
+    casper = Casper()
+
+    print()
     print("=" * 60)
     print("MAGI SYSTEM TEST SUITE")
     print("=" * 60)
@@ -115,22 +124,64 @@ def run_suite():
         print("PROBLEM:")
         print(scenario["description"])
 
-        results = {
-            "Melchior": melchior.evaluate(scenario["description"]),
-            "Balthasar": balthasar.evaluate(scenario["description"]),
-            "Casper": casper.evaluate(scenario["description"]),
-        }
+        results, errors, recovered_agents, elapsed = run_agents_parallel_with_fallback(
+            scenario["description"],
+            melchior,
+            balthasar,
+            casper,
+        )
 
-        final = compare_agent_results(results, scenario)
+        if recovered_agents:
+            print("Recovered in sequential fallback:")
+            for name in recovered_agents:
+                print(f"- {name}")
+
+        print()
+
+        if errors:
+            print("Agent errors:")
+            for name, err in errors.items():
+                print(f"- {name}: {err}")
+
+        if len(results) < 2:
+            print(
+                "Skipping comparator because fewer than two agent results are available."
+            )
+            continue
+
+        final = compare_agent_results(results, scenario["description"])
+
+        while final.needs_recovery_round:
+            print()
+            print("Needs recovery round - retrying failed agents...\n")
+
+            results, errors, recovered_agents, elapsed = (
+                run_agents_parallel_with_fallback(
+                    scenario["description"],
+                    *[
+                        agent
+                        for name, agent in [
+                            ("Melchior", melchior),
+                            ("Balthasar", balthasar),
+                            ("Casper", casper),
+                        ]
+                        if name not in recovered_agents
+                    ],
+                )
+            )
+            if recovered_agents:
+                print("Recovered in recovery round:")
+                for name in recovered_agents:
+                    print(f"- {name}")
+
+            final = compare_agent_results(results, scenario["description"])
 
         print(format_final_decision_report(final))
-        print("")
-        print(f"\nAgreement score: {final.agreement_score}")
-        print("")
-        print("Summary:")
+        print("\nAgreement score:", final.agreement_score)
+        print("\nSummary:")
         print(final.summary)
 
-    print("\nTEST COMPLETED")
+    print("\nTEST COMPLETED\n")
 
     sys.stdout = sys.__stdout__
     log_file.close()

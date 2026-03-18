@@ -4,16 +4,13 @@ from pydantic import BaseModel
 
 
 class ConsistencyAudit(BaseModel):
-    """
-    Result of a consistency audit over an agent output.
-
-    - is_consistent: whether the reasoning supports the selected decision
-    - severity: how serious the inconsistency is
-    - issues: list of detected problems
-    - explanation: short human-readable explanation
-    """
+    supports_selected_option: bool
+    acknowledges_tradeoffs: bool
+    implicitly_supports_alternative: bool
+    reasoning_is_generic: bool
+    direct_contradiction_present: bool
 
     is_consistent: bool
     severity: Literal["none", "low", "medium", "high"]
-    issues: List[str]
+    issues: list[str]
     explanation: str
