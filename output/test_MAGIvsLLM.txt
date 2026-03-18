@@ -1,0 +1,165 @@
+
+============================================================
+MAGI SYSTEM vs SINGLE LLM BASELINE
+============================================================
+
+This test evaluates a single decision scenario using:
+- the MAGI multi-agent system
+- a single LLM baseline
+
+The goal is to compare how each approach:
+- handles complex trade-offs
+- structures reasoning and justification
+- deals with uncertainty and conflicting signals
+
+MAGI agents:
+- Melchior   → analytical / risk-balanced reasoning
+- Balthasar  → human / ethical impact reasoning
+- Casper     → strategic / pragmatic reasoning
+
+Models used (MAGI):
+- Melchior   → openai/gpt-4o
+- Balthasar  → anthropic/claude-3-sonnet
+- Casper     → google/gemini-2.5-flash-lite
+- Auditor    → openai/gpt-4o-mini
+
+Baseline:
+- Single LLM → openai/gpt-4o (structured output, same schema)
+
+What will be compared:
+- Final decision (A / B / C)
+- Confidence and support
+- Quality and depth of reasoning
+- Risk and assumption analysis
+- Ability to expose disagreement (MAGI only)
+- Handling of uncertainty (e.g. unresolved vs forced decision)
+
+============================================================
+SCENARIO: AI Deployment in Company
+============================================================
+PROBLEM:
+
+A mid-sized company is considering how to deploy AI automation across its internal operations over the next 18 months.
+
+The company faces increasing competitive pressure, rising labor costs, and investor expectations for stronger profitability. At the same time, leadership is concerned about employee morale, reputational risk, and the long-term sustainability of the organization.
+
+The company must choose one of the following strategies:
+
+Option A: Aggressive AI automation rollout
+- Automate most internal workflows as quickly as possible
+- Expected profit improvement: high
+- Layoffs expected: significant
+- Implementation risk: high
+- Strategic upside: very high
+
+Option B: Gradual AI-assisted transition
+- Introduce AI in stages while retraining employees and redesigning workflows
+- Expected profit improvement: moderate
+- Layoffs expected: minimal
+- Implementation risk: moderate
+- Strategic upside: moderate to high
+
+Option C: Defensive human-centered approach
+- Minimize automation, preserve jobs, and focus on incremental process improvement
+- Expected profit improvement: low
+- Layoffs expected: none
+- Implementation risk: low
+- Strategic upside: low
+
+
+MAGI RESULTS:
+
+Partial result: no
+Scenario outcome: B
+Decision mode: majority
+Agreement score: 0.67
+Weighted support: A=85, B=158
+
+Why this option won
+- Melchior: Option B balances profit improvement with maintaining employee morale.
+- Balthasar: Option B balances profit improvement with minimal job loss, preserving organizational trust and employee commitment during transformation.
+
+Dissent
+- Casper: chose A (85) because option a offers the highest potential profit improvement, addressing investor expectations and competitive pressure.
+
+AGENTS PERSPECTIVE
+
+Melchior
+Decision: B (80)
+Why:
+- Option B balances profit improvement with maintaining employee morale.
+- The moderate implementation risk of Option B allows for adjustments over time.
+- Gradual transition helps in managing reputational risk effectively.
+Risks:
+- Slower profit improvement may not satisfy investor expectations.
+- Competitors could potentially move faster with automation.
+Assumptions:
+- The company values employee morale and sustainability over immediate profit gains.
+- Leadership is willing to invest in retraining and redesigning workflows.
+
+Balthasar
+Decision: B (78)
+Why:
+- Option B balances profit improvement with minimal job loss, preserving organizational trust and employee commitment during transformation.
+- Gradual implementation allows time to identify which roles can be genuinely enhanced versus eliminated, reducing concentrated harm to specific worker groups.
+- Retraining creates a path forward for displaced workers rather than abandoning them, maintaining social legitimacy while still responding to competitive pressure.
+Risks:
+- Moderate timeline may still prove too slow if competitors move more aggressively, potentially forcing later crisis-driven layoffs anyway.
+- Retraining programs may fail to place all affected workers in viable new roles, creating deferred rather than avoided harm.
+Assumptions:
+- The company has sufficient financial runway to pursue a multi-stage implementation without immediate existential threat.
+- Leadership has genuine commitment to retraining rather than using it as symbolic cover for eventual workforce reduction.
+
+Casper
+Decision: A (85)
+Why:
+- Option A offers the highest potential profit improvement, addressing investor expectations and competitive pressure.
+- The 'very high' strategic upside of aggressive automation positions the company for durable, long-term advantage.
+- While risky, high implementation risk is often a necessary trade-off for the greatest strategic gains in competitive environments.
+Risks:
+- Significant layoffs could severely damage employee morale and lead to reputational damage.
+- High implementation risk could lead to costly failures and delays, negating expected benefits.
+Assumptions:
+- The company has the capacity to manage the significant organizational change and integration challenges of aggressive automation.
+- The competitive pressure and rising labor costs are significant enough to justify the high risks associated with Option A.
+
+
+Checks
+Warnings:
+- No hard consistency warnings detected.
+Notes:
+- No soft consistency notes detected.
+Audit:
+- No audit results generated.
+
+Agreement score: 0.67
+
+Summary:
+B won by majority vote.
+Dissent came from Casper.
+Melchior emphasized that option B balances profit improvement with maintaining employee morale.
+Balthasar emphasized that option B balances profit improvement with minimal job loss, preserving organizational trust and employee commitment during transformation.
+Weighted support was A=85, B=158, with B currently leading.
+
+BASELINE RESULTS:
+
+SINGLE LLM BASELINE
+
+Decision: B
+Confidence: 85
+Why:
+- Balances profit improvement with preserving jobs
+- Moderate risk allows for adjusting to challenges
+- High strategic upside without significant layoffs
+Risks:
+- Could be slower than required to meet investor expectations
+- Competitive pressure might intensify during gradual rollout
+Assumptions:
+- Company values long-term sustainability and employee morale
+- Leadership is willing to retrain and redesign workflows
+
+MAGI vs BASELINE COMPARISON:
+- MAGI final decision: B
+- Baseline final decision: B
+
+TEST COMPLETED

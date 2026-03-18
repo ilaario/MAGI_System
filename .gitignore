@@ -8,5 +8,6 @@ src/magi/audit/__pycache__
 src/magi/models/__pycache__
 src/magi/agents/__pycache__
 src/magi/runtime/__pycache__
+src/magi/baseline/__pycache__
 src/magi/__pycache__
 src/__pycache__

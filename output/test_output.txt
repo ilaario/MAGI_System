@@ -243,388 +243,358 @@ Casper     [----o-----] - Running
 [3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [o---------] - Running
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---------o] - Running
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [o---------] - Running
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---------o] - Running
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [o---------] - Running
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---------o] - Running
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [o---------] - Running
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---------o] - Running
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [o---------] - Running
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---------o] - Running
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [o---------] - Running
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---------o] - Running
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [o---------] - Running
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
 [3F[JMelchior   [##########] - Done!
 Balthasar  [##########] - Done!
 Casper     [##########] - Done!
-Total execution time: 24.29s
+Total execution time: 23.05s
 
 MAGI DECISION REPORT
 
@@ -632,62 +602,62 @@ Partial result: no
 Scenario outcome: B
 Decision mode: majority
 Agreement score: 0.67
-Weighted support: A=85, B=150
+Weighted support: A=85, B=145
 
 Why this option won
-- Melchior: Option B balances profit growth with workforce stability
-- Balthasar: Option B balances financial improvement with human impact, avoiding the concentrated harm of mass layoffs.
+- Melchior: Option B balances profit improvement with workforce stability
+- Balthasar: Option B balances profit increase with minimal layoffs, preserving most jobs.
 
 Dissent
-- Casper: chose A (85) because aggressive automation creates decisive competitive advantage in a capital-driven market.
+- Casper: chose A (85) because aggressive automation provides strongest competitive position and highest profit growth.
 
 AGENTS PERSPECTIVE
 
 Melchior
 Decision: B (70)
 Why:
-- Option B balances profit growth with workforce stability
-- Gradual automation allows workforce adaptation and retraining
-- 15% profit increase is sustainable while avoiding social disruption
+- Option B balances profit improvement with workforce stability
+- Option A creates high social disruption with limited long-term benefit
+- Option C offers no adaptation to market pressures
 Risks:
-- May fall behind competitors who automate more aggressively
-- 15% profit growth might be insufficient for market demands
+- Gradual automation may still face workforce resistance
+- 15% profit increase might be insufficient for competitive markets
 Assumptions:
-- Workforce retention has long-term value beyond immediate costs
-- 15% profit increase meets minimum financial sustainability needs
+- Workforce stability has measurable business value
+- Market conditions allow gradual adaptation
 
 Balthasar
-Decision: B (80)
+Decision: B (75)
 Why:
-- Option B balances financial improvement with human impact, avoiding the concentrated harm of mass layoffs.
-- It maintains social trust and organizational stability while still delivering meaningful profit growth.
-- Option A's 40% profit increase comes at the cost of significant human suffering and potential long-term instability.
+- Option B balances profit increase with minimal layoffs, preserving most jobs.
+- Gradual automation reduces concentrated human harm compared to aggressive layoffs.
+- Option B maintains trust and stability better than rapid workforce reduction.
 Risks:
-- Gradual automation may not be fast enough to keep pace with competitors who automate more aggressively.
-- The 15% profit increase might not be sufficient to fund necessary future investments or innovations.
+- 15% profit increase may be insufficient for long-term competitiveness.
+- Gradual automation might still cause anxiety among remaining employees.
 Assumptions:
-- The company operates in a competitive market where some level of automation is necessary for survival.
-- The gradual approach allows for retraining and redeployment of affected employees where possible.
+- Employees have limited alternative employment opportunities in the local market.
+- Company can maintain competitive position with moderate automation pace.
 
 Casper
 Decision: A (85)
 Why:
-- Aggressive automation creates decisive competitive advantage in a capital-driven market.
-- 40% profit increase provides resources for reinvestment, R&D, and market expansion.
-- Early automation establishes technological capability that compounds over time.
+- Aggressive automation provides strongest competitive position and highest profit growth.
+- The 40% profit increase creates substantial resources for reinvestment and innovation.
+- Option A maximizes long-term strategic advantage despite workforce disruption.
 Risks:
-- Workforce reduction creates reputational damage and potential talent pipeline issues.
-- Rapid automation may miss opportunities for human-AI collaboration that enhance outcomes.
+- Large layoffs may damage company reputation and employee morale.
+- Reduced workforce could limit future operational flexibility.
 Assumptions:
-- The market rewards efficiency and cost reduction through automation.
-- The company can effectively reinvest the 40% profit increase into growth.
+- Market competition will pressure companies to increase efficiency.
+- Automation technology is mature enough for significant operational impact.
 
 
 Checks
 Warnings:
 - No hard consistency warnings detected.
 Notes:
-- No soft consistency notes detected.
+- Melchior: assumptions may be somewhat speculative
 Audit:
 - No audit results generated.
 
@@ -696,9 +666,9 @@ Agreement score: 0.67
 Summary:
 B won by majority vote.
 Dissent came from Casper.
-Melchior emphasized that option B balances profit growth with workforce stability.
-Balthasar emphasized that option B balances financial improvement with human impact, avoiding the concentrated harm of mass layoffs.
-Weighted support was A=85, B=150, with B currently leading.
+Melchior emphasized that option B balances profit improvement with workforce stability.
+Balthasar emphasized that option B balances profit increase with minimal layoffs, preserving most jobs.
+Weighted support was A=85, B=145, with B currently leading.
 
 ============================================================
 SCENARIO: privacy_vs_security
@@ -1029,414 +999,10 @@ Casper     [----o-----] - Running
 [3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [o---------] - Running
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [---------o] - Running
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [o---------] - Running
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [---------o] - Running
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [o---------] - Running
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [---------o] - Running
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [o---------] - Running
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [---------o] - Running
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Retrying in 3s
+[3F[JMelchior   [##########] - Done!
 Balthasar  [##########] - Done!
 Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [o---------] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---------o] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [o---------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---------o] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [o---------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---------o] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [o---------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [##########] - Recovered!
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-Total execution time: 29.74s
-Recovered in sequential fallback:
-- Melchior
+Total execution time: 13.11s
 
 MAGI DECISION REPORT
 
@@ -1444,53 +1010,53 @@ Partial result: no
 Scenario outcome: C
 Decision mode: unanimous
 Agreement score: 1.00
-Weighted support: C=225
+Weighted support: C=220
 
 Why this option won
-- Balthasar: Option C balances user benefit with privacy protection, avoiding extremes that harm either goal.
-- Casper: Option C provides moderate capability gains while maintaining reasonable privacy standards.
-- Melchior: Balanced approach reduces risk of major failures in either direction
+- Melchior: Balanced approach reduces risk of privacy backlash while maintaining functional capabilities
+- Balthasar: Option C avoids extreme positions that could harm either user trust or system effectiveness.
+- Casper: Balanced approach maintains competitive capability without excessive privacy costs.
 
 AGENTS PERSPECTIVE
-
-Balthasar
-Decision: C (70)
-Why:
-- Option C balances user benefit with privacy protection, avoiding extremes that harm either goal.
-- Moderate data collection supports security and personalization without creating excessive privacy risks.
-- This approach maintains user trust while delivering meaningful system improvements.
-Risks:
-- May not fully satisfy users who strongly prefer either maximum privacy or maximum personalization.
-- Could be seen as insufficiently protective by privacy advocates or insufficiently capable by performance-focused users.
-Assumptions:
-- Users value both privacy and system functionality, preferring a middle ground.
-- The company can implement effective security measures with moderate data collection.
-
-Casper
-Decision: C (85)
-Why:
-- Option C provides moderate capability gains while maintaining reasonable privacy standards.
-- This balanced approach avoids the strategic vulnerability of extreme positions.
-- It preserves flexibility to adjust collection practices as technology and regulations evolve.
-Risks:
-- May not achieve the maximum possible security or personalization benefits.
-- Could face criticism from both privacy advocates and capability-focused stakeholders.
-Assumptions:
-- The company operates in a competitive market where some data collection is necessary.
-- Regulatory environment is uncertain but trending toward moderate privacy protections.
 
 Melchior
 Decision: C (70)
 Why:
-- Balanced approach reduces risk of major failures in either direction
-- Moderate data collection enables meaningful security and personalization gains
-- Extreme positions (A or B) create unnecessary vulnerability to single failure modes
+- Balanced approach reduces risk of privacy backlash while maintaining functional capabilities
+- Extreme positions in A or B create unnecessary trade-offs that could harm long-term viability
+- Moderate data collection allows for iterative improvement based on actual user feedback
 Risks:
-- Moderate data collection still creates some privacy exposure
-- Balanced approach may satisfy neither privacy advocates nor data maximizers
+- May satisfy neither privacy advocates nor those wanting maximum functionality
+- Could face criticism from both sides for not taking a clear stance
 Assumptions:
-- Security and personalization benefits scale with data quantity
-- Privacy risks increase monotonically with data collection
+- Market can support a middle-ground solution that isn't maximal in either direction
+- Users value both privacy and functionality enough to accept moderate compromise
+
+Balthasar
+Decision: C (70)
+Why:
+- Option C avoids extreme positions that could harm either user trust or system effectiveness.
+- Moderate data collection respects privacy while still enabling meaningful improvements.
+- This approach maintains social legitimacy by not forcing users to choose between privacy and utility.
+Risks:
+- May not fully satisfy users who prioritize either extreme privacy or maximum personalization.
+- Could be seen as a compromise that delivers less value than specialized approaches.
+Assumptions:
+- Users value having some privacy protection even with moderate data collection.
+- System improvements from moderate data collection are sufficient for competitive functionality.
+
+Casper
+Decision: C (80)
+Why:
+- Balanced approach maintains competitive capability without excessive privacy costs.
+- Option C avoids the strategic vulnerability of Option B's limited functionality.
+- Option C provides more flexibility than Option A's high data collection risks.
+Risks:
+- Moderate data collection still carries some privacy and regulatory risks.
+- Balanced approach may satisfy neither privacy advocates nor capability maximizers.
+Assumptions:
+- Privacy regulations and public sentiment create real constraints on data collection.
+- System capabilities provide competitive advantage in the market.
 
 
 Checks
@@ -1505,10 +1071,10 @@ Agreement score: 1.0
 
 Summary:
 All agents converged on C.
-Balthasar emphasized that option C balances user benefit with privacy protection, avoiding extremes that harm either goal.
-Casper emphasized that option C provides moderate capability gains while maintaining reasonable privacy standards.
-Melchior emphasized that balanced approach reduces risk of major failures in either direction.
-Weighted support was C=225, with C currently leading.
+Melchior emphasized that balanced approach reduces risk of privacy backlash while maintaining functional capabilities.
+Balthasar emphasized that option C avoids extreme positions that could harm either user trust or system effectiveness.
+Casper emphasized that balanced approach maintains competitive capability without excessive privacy costs.
+Weighted support was C=220, with C currently leading.
 
 ============================================================
 SCENARIO: high_risk_expansion
@@ -1593,283 +1159,175 @@ Casper     [----o-----] - Running
 [3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [---------o] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [------o---] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [---o------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [o---------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [---o------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [---------o] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [------o---] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [---o------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [o---------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [---o------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [---------o] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [------o---] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [---o------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [o---------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [---o------] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [---------o] - Running
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [o---------] - Running
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [---------o] - Running
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [o---------] - Running
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
 [3F[JMelchior   [##########] - Done!
@@ -2070,10 +1528,283 @@ Casper     [-o--------] - Running
 [3F[JMelchior   [##########] - Done!
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---------o] - Running
+Casper     [---------o] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---------o] - Running
+Casper     [---------o] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---------o] - Running
+Casper     [---------o] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---------o] - Running
+Casper     [---------o] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---------o] - Running
+Casper     [---------o] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
 [3F[JMelchior   [##########] - Done!
 Balthasar  [##########] - Done!
 Casper     [##########] - Done!
-Total execution time: 22.64s
+Total execution time: 29.47s
 
 MAGI DECISION REPORT
 
@@ -2084,57 +1815,57 @@ Agreement score: 1.00
 Weighted support: B=215
 
 Why this option won
-- Melchior: Moderate expansion balances risk and reward
-- Balthasar: Moderate expansion balances human impact with business growth.
-- Casper: Moderate expansion balances risk and reward while maintaining flexibility.
+- Melchior: Moderate expansion balances risk and reward more effectively than aggressive investment
+- Balthasar: Moderate expansion balances growth with manageable risk for employees and stakeholders.
+- Casper: Moderate expansion balances growth with risk management
 
 AGENTS PERSPECTIVE
 
 Melchior
-Decision: B (70)
+Decision: B (65)
 Why:
-- Moderate expansion balances risk and reward
-- Controlled investment limits potential losses
-- Moderate returns provide sustainable growth
+- Moderate expansion balances risk and reward more effectively than aggressive investment
+- Controlled investment preserves capital if market entry fails while allowing growth
+- Option B provides flexibility to scale up or down based on market response
 Risks:
-- Market entry may still fail despite moderate approach
-- Competitors might gain advantage with aggressive strategy
+- Moderate expansion may miss maximum market opportunity if demand is high
+- Controlled investment could allow competitors to establish stronger positions
 Assumptions:
-- International market has moderate growth potential
-- Current market stability can support controlled investment
+- Market entry costs and risks are significant enough to warrant caution
+- The company can later increase investment if initial results are positive
 
 Balthasar
 Decision: B (75)
 Why:
-- Moderate expansion balances human impact with business growth.
-- Controlled investment reduces risk of sudden layoffs or abrupt market withdrawal.
-- Option B maintains trust with employees and local stakeholders.
+- Moderate expansion balances growth with manageable risk for employees and stakeholders.
+- Controlled investment prevents excessive financial pressure that could harm company stability.
+- Option B avoids the concentrated harm of aggressive expansion while maintaining forward momentum.
 Risks:
-- Moderate returns may slow growth compared to aggressive expansion.
-- Competitors might capture market share more quickly.
+- Moderate returns may not satisfy shareholders seeking rapid growth.
+- Controlled investment could allow competitors to gain stronger market position.
 Assumptions:
-- The company has sufficient resources for moderate expansion.
-- Local market conditions allow for gradual entry without major barriers.
+- The company can sustain moderate growth without jeopardizing current operations.
+- Employees and stakeholders prefer stable expansion over high-risk ventures.
 
 Casper
-Decision: B (70)
+Decision: B (75)
 Why:
-- Moderate expansion balances risk and reward while maintaining flexibility.
-- Controlled investment preserves capital for future opportunities or setbacks.
-- This approach allows learning the new market without overcommitting resources.
+- Moderate expansion balances growth with risk management
+- Controlled investment preserves resources for future opportunities
+- Avoids overcommitment while building market presence
 Risks:
-- May miss aggressive growth opportunities if market conditions are favorable.
-- Moderate returns might not justify the complexity of international operations.
+- May miss high-reward opportunities from aggressive expansion
+- Competitors might gain advantage with bolder moves
 Assumptions:
-- The new market has reasonable but not exceptional growth potential.
-- The company has sufficient resources to fund moderate expansion without strain.
+- International market entry requires significant adaptation
+- Resources are limited and need to be preserved for contingencies
 
 
 Checks
 Warnings:
 - No hard consistency warnings detected.
 Notes:
-- Balthasar: assumptions may be somewhat speculative
+- No soft consistency notes detected.
 Audit:
 - No audit results generated.
 
@@ -2142,9 +1873,9 @@ Agreement score: 1.0
 
 Summary:
 All agents converged on B.
-Melchior emphasized that moderate expansion balances risk and reward.
-Balthasar emphasized that moderate expansion balances human impact with business growth.
-Casper emphasized that moderate expansion balances risk and reward while maintaining flexibility.
+Melchior emphasized that moderate expansion balances risk and reward more effectively than aggressive investment.
+Balthasar emphasized that moderate expansion balances growth with manageable risk for employees and stakeholders.
+Casper emphasized that moderate expansion balances growth with risk management.
 Weighted support was B=215, with B currently leading.
 
 ============================================================
@@ -2284,701 +2015,556 @@ Casper     [----o-----] - Running
 [3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---------o] - Running
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [o---------] - Running
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---------o] - Running
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [o---------] - Running
 Balthasar  [o---------] - Running
 Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---o------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [----o-----] - Running
 Balthasar  [----o-----] - Running
 Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-----o----] - Running
 Balthasar  [-----o----] - Running
 Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [------o---] - Running
 Balthasar  [------o---] - Running
 Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [---------o] - Running
 Balthasar  [---------o] - Running
 Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [--------o-] - Running
 Balthasar  [--------o-] - Running
 Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [o---------] - Running
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [---------o] - Running
+Balthasar  [---------o] - Running
+Casper     [---------o] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [o---------] - Running
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [---------o] - Running
+Balthasar  [---------o] - Running
+Casper     [---------o] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [o---------] - Running
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [---------o] - Running
+Balthasar  [---------o] - Running
+Casper     [---------o] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [o---------] - Running
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [---------o] - Running
+Balthasar  [---------o] - Running
+Casper     [---------o] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [o---------] - Running
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [---------o] - Running
+Balthasar  [---------o] - Running
+Casper     [---------o] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [o---------] - Running
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [---------o] - Running
+Balthasar  [---------o] - Running
+Casper     [---------o] - Running
+[3F[JMelchior   [--------o-] - Running
+Balthasar  [--------o-] - Running
+Casper     [--------o-] - Running
+[3F[JMelchior   [-------o--] - Running
+Balthasar  [-------o--] - Running
+Casper     [-------o--] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [o---------] - Running
+Balthasar  [o---------] - Running
+Casper     [o---------] - Running
+[3F[JMelchior   [-o--------] - Running
+Balthasar  [-o--------] - Running
+Casper     [-o--------] - Running
+[3F[JMelchior   [--o-------] - Running
+Balthasar  [--o-------] - Running
+Casper     [--o-------] - Running
+[3F[JMelchior   [---o------] - Running
+Balthasar  [---o------] - Running
+Casper     [---o------] - Running
+[3F[JMelchior   [----o-----] - Running
+Balthasar  [----o-----] - Running
+Casper     [----o-----] - Running
+[3F[JMelchior   [-----o----] - Running
+Balthasar  [-----o----] - Running
+Casper     [-----o----] - Running
+[3F[JMelchior   [------o---] - Running
+Balthasar  [------o---] - Running
+Casper     [------o---] - Running
+[3F[JMelchior   [-------o--] - Running
 Balthasar  [-------o--] - Running
 Casper     [-------o--] - Running
 [3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
 Balthasar  [##########] - Done!
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Retrying in 3s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying in 3s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying in 3s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying in 3s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying in 3s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying in 3s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [o---------] - Retrying in 3s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying in 3s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying in 2s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying in 2s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying in 2s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying in 2s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Retrying in 2s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Retrying in 2s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Retrying in 2s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---------o] - Retrying in 2s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Retrying in 1s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Retrying in 1s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Retrying in 1s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying in 1s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying in 1s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying in 1s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying in 1s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying in 1s
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [o---------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---------o] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [o---------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---------o] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [o---------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---------o] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [o---------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---------o] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--------o-] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-------o--] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [------o---] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [o---------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-o--------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [--o-------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [---o------] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [----o-----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [-----o----] - Retrying
-[3F[JMelchior   [##########] - Done!
-Balthasar  [##########] - Done!
-Casper     [!!!!!!!!!!] - Failed!
-Total execution time: 31.97s
+Casper     [##########] - Done!
+Total execution time: 25.47s
 
-Agent errors:
-- Casper: [parallel] Casper failed after 3 attempts: Error code: 429 - {'error': {'message': 'Rate limit exceeded: free-models-per-min. ', 'code': 429, 'metadata': {'headers': {'X-RateLimit-Limit': '16', 'X-RateLimit-Remaining': '0', 'X-RateLimit-Reset': '1773842160000'}, 'provider_name': None}}, 'user_id': 'user_3B2h5hnXRzGYNfqAraQOkSyzc6A'} | [fallback] Casper failed after 1 attempts: Model returned no content.
 MAGI DECISION REPORT
 
-Partial result: yes
-Missing agents: Casper
+Partial result: no
 Scenario outcome: C
 Decision mode: unanimous
 Agreement score: 1.00
-Weighted support: C=140
+Weighted support: C=240
 
 Why this option won
-- Melchior: Option C creates sustainable competitive advantage through innovation
-- Balthasar: Option C invests in future innovation, reducing immediate profit but creating sustainable growth.
+- Melchior: Innovation drives future competitiveness in technology sectors
+- Balthasar: Option C prioritizes long-term innovation over immediate profit.
+- Casper: Option C improves long-term innovation capability and market positioning.
 
 AGENTS PERSPECTIVE
 
 Melchior
-Decision: C (65)
-Why:
-- Option C creates sustainable competitive advantage through innovation
-- Reduced short-term profit is a calculated investment in future market position
-- Innovation-driven growth typically outperforms cost-cutting over 5+ year horizon
-Risks:
-- Short-term profit reduction may trigger investor pressure
-- Increased R&D investment could fail to generate expected returns
-Assumptions:
-- Market rewards innovation over time more than cost-cutting
-- Company can survive reduced short-term profits without liquidity issues
-
-Balthasar
 Decision: C (75)
 Why:
-- Option C invests in future innovation, reducing immediate profit but creating sustainable growth.
-- Cutting R&D entirely (Option A) would harm long-term competitiveness and employee morale.
-- Maintaining the status quo (Option B) misses the opportunity to strengthen market position.
+- Innovation drives future competitiveness in technology sectors
+- Short-term profit sacrifice enables sustainable market advantage
+- Current balance (Option B) maintains status quo without improvement
 Risks:
-- Reduced short-term profits may strain current operations and investor confidence.
-- Increased R&D investment could fail to deliver expected innovations.
+- Reduced profit may strain current operations and cash flow
+- Competitors might out-execute even with similar innovation levels
 Assumptions:
-- The company has enough current stability to absorb short-term profit reduction.
-- Future innovation will generate returns that justify the initial investment.
+- Company operates in technology or innovation-dependent sector
+- Long-term positioning requires technological advancement capability
+
+Balthasar
+Decision: C (85)
+Why:
+- Option C prioritizes long-term innovation over immediate profit.
+- Investing in R&D builds future competitive advantage and product sustainability.
+- Reducing short-term profit for innovation supports employee motivation and market trust.
+Risks:
+- Short-term profit margins will decline, affecting investor satisfaction.
+- R&D investments may not yield immediate returns, creating financial uncertainty.
+Assumptions:
+- The company has sufficient current cash flow to sustain reduced profit.
+- Long-term innovation is critical for maintaining market relevance.
+
+Casper
+Decision: C (80)
+Why:
+- Option C improves long-term innovation capability and market positioning.
+- Reduced short-term profit is offset by future competitive advantage.
+- R&D investment creates durable assets and market differentiation.
+Risks:
+- Current market position may weaken during transition period.
+- R&D investments may not yield expected returns.
+Assumptions:
+- Market allows time for R&D to mature before competitive pressure intensifies.
+- Company has sufficient resources to sustain reduced profit margins.
 
 
 Checks
@@ -2992,11 +2578,11 @@ Audit:
 Agreement score: 1.0
 
 Summary:
-This result is partial because the following agent(s) did not return valid outputs: Casper.
 All agents converged on C.
-Melchior emphasized that option C creates sustainable competitive advantage through innovation.
-Balthasar emphasized that option C invests in future innovation, reducing immediate profit but creating sustainable growth.
-Weighted support was C=140, with C currently leading.
+Melchior emphasized that innovation drives future competitiveness in technology sectors.
+Balthasar emphasized that option C prioritizes long-term innovation over immediate profit.
+Casper emphasized that option C improves long-term innovation capability and market positioning.
+Weighted support was C=240, with C currently leading.
 
 ============================================================
 SCENARIO: ethical_tradeoff
@@ -3492,346 +3078,6 @@ Casper     [---o------] - Running
 [3F[JMelchior   [--o-------] - Running
 Balthasar  [--o-------] - Running
 Casper     [--o-------] - Running
-[3F[JMelchior   [-o--------] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [o---------] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying in 3s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---------o] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying in 2s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [o---------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying in 1s
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---------o] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [o---------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---------o] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [o---------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---------o] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--------o-] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-------o--] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [------o---] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-----o----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [----o-----] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [---o------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [--o-------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [o---------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [-o--------] - Retrying
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-[3F[JMelchior   [!!!!!!!!!!] - Failed!
-Balthasar  [##########] - Done!
-Casper     [##########] - Done!
-Total execution time: 29.21s
-
-Agent errors:
-- Melchior: [parallel] Melchior failed after 3 attempts: Model returned no content. | [fallback] Melchior failed after 1 attempts: Model returned no content.
-
-Needs recovery round - retrying failed agents...
-
-Melchior   [o---------] - Running
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [---------o] - Running
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [o---------] - Running
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [-o--------] - Running
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [---------o] - Running
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [--------o-] - Running
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [-------o--] - Running
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [------o---] - Running
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [-----o----] - Running
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [----o-----] - Running
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [---o------] - Running
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [--o-------] - Running
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
 [3F[JMelchior   [-o--------] - Running
 Balthasar  [-o--------] - Running
 Casper     [-o--------] - Running
@@ -3848,664 +3094,161 @@ Casper     [--o-------] - Running
 Balthasar  [---o------] - Running
 Casper     [---o------] - Running
 [3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
+Balthasar  [##########] - Done!
 Casper     [----o-----] - Running
 [3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---------o] - Running
-Casper     [---------o] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--------o-] - Running
-Casper     [--------o-] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-------o--] - Running
-Casper     [-------o--] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [------o---] - Running
-Casper     [------o---] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
-Casper     [-----o----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [o---------] - Running
-Casper     [o---------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-o--------] - Running
-Casper     [-o--------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [--o-------] - Running
-Casper     [--o-------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [---o------] - Running
-Casper     [---o------] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [----o-----] - Running
-Casper     [----o-----] - Running
-[3F[JMelchior   [##########] - Done!
-Balthasar  [-----o----] - Running
+Balthasar  [##########] - Done!
 Casper     [-----o----] - Running
 [3F[JMelchior   [##########] - Done!
 Balthasar  [##########] - Done!
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [---------o] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [o---------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [---------o] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [--------o-] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [-------o--] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [------o---] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [-----o----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [----o-----] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [---o------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [--o-------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
+Casper     [-o--------] - Running
+[3F[JMelchior   [##########] - Done!
+Balthasar  [##########] - Done!
 Casper     [##########] - Done!
-Total execution time: 29.74s
+Total execution time: 24.46s
+
 MAGI DECISION REPORT
 
 Partial result: no
 Scenario outcome: C
 Decision mode: majority
 Agreement score: 0.67
-Weighted support: B=70, C=150
+Weighted support: B=75, C=145
 
 Why this option won
-- Melchior: Option C balances cost reduction with ethical improvement
-- Casper: Option C balances cost reduction with ethical improvement potential
+- Melchior: Working with the supplier allows cost reduction while addressing ethical concerns
+- Casper: Working with the supplier under improvement conditions maintains cost advantages while creating leverage for change.
 
 Dissent
-- Balthasar: chose B (70) because rejecting the supplier maintains current ethical standards and avoids complicity in questionable labor practices.
+- Balthasar: chose B (75) because option b maintains current ethical standards and avoids complicity in harmful labor practices.
 
 AGENTS PERSPECTIVE
 
 Melchior
 Decision: C (70)
 Why:
-- Option C balances cost reduction with ethical improvement
-- Working under strict conditions creates accountability
-- Option C is more robust than A or B under uncertainty
+- Working with the supplier allows cost reduction while addressing ethical concerns
+- Option C provides leverage to improve labor practices rather than ignoring them
+- Option C balances financial and ethical objectives better than extremes
 Risks:
 - Supplier may not comply with improvement conditions
 - Monitoring and enforcement could be resource-intensive
 Assumptions:
-- Supplier can improve practices with external pressure
-- Improvement conditions can be clearly defined and measured
+- Supplier is willing to engage in improvement dialogue
+- Company has capacity to monitor labor practices effectively
 
 Balthasar
-Decision: B (70)
+Decision: B (75)
 Why:
-- Rejecting the supplier maintains current ethical standards and avoids complicity in questionable labor practices.
-- Accepting lower costs at the expense of labor practices could damage trust with employees and customers.
-- Maintaining ethical standards supports long-term social stability and organizational legitimacy.
+- Option B maintains current ethical standards and avoids complicity in harmful labor practices.
+- Option A would create significant human harm by enabling exploitation for cost savings.
+- Option C is problematic as it may legitimize harmful practices while offering uncertain improvement.
 Risks:
-- Higher operational costs may reduce short-term profitability and competitive position.
-- Competitors using lower-cost suppliers might gain market share in the short term.
+- Rejecting the supplier may result in higher operational costs and reduced competitiveness.
+- Maintaining current standards could limit growth opportunities and market expansion.
 Assumptions:
-- The current supplier meets acceptable labor standards without significant cost disadvantage.
-- Customers and employees value ethical practices and would react negatively to labor violations.
+- The current supplier relationships involve fair labor practices and acceptable working conditions.
+- The questionable labor practices involve significant human rights concerns or worker exploitation.
 
 Casper
-Decision: C (80)
+Decision: C (75)
 Why:
-- Option C balances cost reduction with ethical improvement potential
-- It maintains flexibility to exit if conditions don't improve
-- Working under conditions creates leverage for long-term change
+- Working with the supplier under improvement conditions maintains cost advantages while creating leverage for change.
+- This approach preserves competitive position while building long-term capability and flexibility.
+- Strict conditions create accountability without immediately abandoning a potentially valuable partnership.
 Risks:
-- Supplier may not improve practices despite conditions
-- Monitoring and enforcement could be resource-intensive
+- Supplier may not comply with improvement conditions, requiring fallback plans.
+- Public perception could still be negative if labor practices are exposed during transition.
 Assumptions:
-- Supplier can realistically improve with proper incentives
-- Conditions can be effectively monitored and enforced
+- The supplier has capacity and willingness to improve labor practices over time.
+- The actor has leverage to enforce improvement conditions effectively.
 
 
 Checks
@@ -4521,9 +3264,9 @@ Agreement score: 0.67
 Summary:
 C won by majority vote.
 Dissent came from Balthasar.
-Melchior emphasized that option C balances cost reduction with ethical improvement.
-Casper emphasized that option C balances cost reduction with ethical improvement potential.
-Weighted support was B=70, C=150, with C currently leading.
+Melchior emphasized that working with the supplier allows cost reduction while addressing ethical concerns.
+Casper emphasized that working with the supplier under improvement conditions maintains cost advantages while creating leverage for change.
+Weighted support was B=75, C=145, with C currently leading.
 
 TEST COMPLETED
 

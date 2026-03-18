@@ -21,7 +21,7 @@ class LLMClient:
                 {"role": "system", "content": system_prompt},
                 {"role": "user", "content": user_prompt},
             ],
-            max_tokens=400,
+            max_tokens=600,
         )
 
         content = response.choices[0].message.content
